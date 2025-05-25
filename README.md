@@ -2,6 +2,11 @@
 
 A Flutter application for music production and management, built with Firebase integration.
 
+
+https://github.com/user-attachments/assets/b00a82d0-4278-4625-bdb7-c4a1a0cf170d
+
+
+
 ## Project Structure
 
 ```
