@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623161404842",
+    "project_id": "music-production-a0368",
+    "storage_bucket": "music-production-a0368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623161404842:android:0e80f4c4153c2b05c0cfd3",
+        "android_client_info": {
+          "package_name": "com.example.music_production"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvNrPfwqo6o4buSFEWOmhaxg46wiec_SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
